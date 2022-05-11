@@ -16,3 +16,7 @@ def stat():
     print("Die Summe der Werte beträgt: ",summe)
     print("Der Mittelwert der Werte beträgt: " , mittelwert)
 stat()
+
+
+
+JUNGS WENN IHR DAS LESEN KÖNNT DANN HABE ICH ES GESCHAFFT
