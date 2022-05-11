@@ -17,6 +17,6 @@ def stat():
     print("Der Mittelwert der Werte beträgt: " , mittelwert)
 stat()
 
-
+ddddd
 
 JUNGS WENN IHR DAS LESEN KÖNNT DANN HABE ICH ES GESCHAFFT
