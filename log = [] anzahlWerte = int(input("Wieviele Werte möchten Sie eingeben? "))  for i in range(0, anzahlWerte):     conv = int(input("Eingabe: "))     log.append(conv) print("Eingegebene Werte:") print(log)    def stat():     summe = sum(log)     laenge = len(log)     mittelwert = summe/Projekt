@@ -1,0 +1,18 @@
+log = []
+anzahlWerte = int(input("Wieviele Werte möchten Sie eingeben? "))
+
+for i in range(0, anzahlWerte):
+    conv = int(input("Eingabe: "))
+    log.append(conv)
+print("Eingegebene Werte:")
+print(log)
+
+
+
+def stat():
+    summe = sum(log)
+    laenge = len(log)
+    mittelwert = summe / laenge
+    print("Die Summe der Werte beträgt: ",summe)
+    print("Der Mittelwert der Werte beträgt: " , mittelwert)
+stat()
